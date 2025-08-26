@@ -1,1 +1,1 @@
-A very messy app in the making.
+A cross-platform messaging app prototype using Expo, focusing on UI/UX design and component-based architecture. 
